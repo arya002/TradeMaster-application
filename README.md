@@ -53,7 +53,7 @@ Remember to upload the 2 json files (GTT and Trade data) provided to the website
 
 ## About the project
 
-This project is made for the GMOT department of the Bank of America and enables the user to query data as well as upload json to be stored in the database.
+This project is made for the GMOT department of the Bank of America and enables the user to query data as well as upload json files to be stored in the database.
 
 Features :
 
