@@ -1,4 +1,4 @@
-# Trade Master (GMOT applcation)
+# Trade Master (GMOT application)
 
 This project was developed with [React js](https://github.com/facebook/create-react-app) and [Django](https://www.djangoproject.com/). It is assumed that the unix/macOS machine this project runs on already has python3 and node installed.
 
