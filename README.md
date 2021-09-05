@@ -14,7 +14,7 @@ To run the backend server you need to complete the following steps -
 
 Install python dependencies (navigate to the project_backend directory and install all python dependencies)
 ```sh
-cd project_backend/
+cd './Project Code/project_backend'
 pip3 install -r requirements.txt
 ```
 
@@ -40,7 +40,7 @@ To run the frontend React server you need to complete the following steps -
 
 Install node dependencies (navigate to the frontend directory and install all node dependencies)
 ```sh
-cd project-frontend/
+cd './Project Code/project-frontend/'
 npm install
 ```
 
