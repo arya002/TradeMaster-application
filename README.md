@@ -59,12 +59,12 @@ Features :
 
 - Upload GTT data json file which gets parsed and stored in the DataBase
 - Upload Trade data json file which gets parsed and stored in the DataBase
-- Query records by data
-- Query records by trade ID
-- Query records by client ID
+- Query records by Data
+- Query records by Trade ID
+- Query records by Client ID
 
 ## Parser
-The parser has been implemented in a way to handle duplicate entries to avoid redundancy and any possible clashes. The json schema is also checked to make sure the files follow the right format before being parsed.
+The file parser has been implemented in a way to handle duplicate entries to avoid redundancy and any possible clashes. The json schema is also checked to make sure the files follow the right format before being parsed.
 
 ## Tech
 
