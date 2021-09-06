@@ -63,7 +63,7 @@ Features :
 - Query records by Trade ID
 - Query records by Client ID
 
-## Parser
+## File Parser
 The file parser has been implemented in a way to handle duplicate entries to avoid redundancy and any possible clashes. The json schema is also checked to make sure the files follow the right format before being parsed.
 
 ## Tech
