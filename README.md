@@ -70,7 +70,7 @@ The file parser has been implemented in a way to handle duplicate entries to avo
 
 Trade Master uses a number of open source projects to work properly:
 
-- [ReactJS] - javaScript framework for froent-end design
+- [ReactJS] - javaScript framework for front-end design
 - [Django] - python based back-end framework
 - [npm] - package manager for JavaScript
 - [Twitter Bootstrap] - great UI boilerplate for modern web apps
