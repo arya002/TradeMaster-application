@@ -18,7 +18,7 @@ cd './Project Code/project_backend'
 pip3 install -r requirements.txt
 ```
 
-Make the database migrations in the same directory (this created and registers database tables with the server)
+Make the database migrations in the same directory (this creates and registers database tables with the server)
 ```sh
 python3 manage.py makemigrations
 python3 manage.py migrate
