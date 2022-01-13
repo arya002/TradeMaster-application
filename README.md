@@ -49,17 +49,17 @@ This starts the frontend server at [http://localhost:3000/](http://localhost:300
 npm start
 ```
 
-Remember to upload the 2 json files (GTT and Trade data) provided to the website before making queries, or the results would come back empty.
+Remember to upload the 2 provided json files (GTT and Trade data) to the website before making queries, or the results would come back empty.
 
 ## About the project
 
-This project is made for the GMOT department of the Bank of America and enables the user to query data as well as upload json files to be stored in the database.
+This project is made for the GMOT department of Bank of America and enables the user to query data as well as upload json files to be stored in the database.
 
 Features :
 
 - Upload GTT data json file which gets parsed and stored in the DataBase
 - Upload Trade data json file which gets parsed and stored in the DataBase
-- Query records by Data
+- Query records by Date
 - Query records by Trade ID
 - Query records by Client ID
 
